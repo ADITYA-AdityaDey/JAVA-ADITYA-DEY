@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class IfElseStatement {
-    public static void main(String args[]) {
+public class IfElseStatement {
+    public static void main(String[] args) {
         int userpassword;
 
         System.out.print("Enter Password: ");

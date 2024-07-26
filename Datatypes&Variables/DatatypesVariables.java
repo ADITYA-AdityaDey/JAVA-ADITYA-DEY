@@ -42,12 +42,12 @@
 */
 
 
-class DatatypesVariables {
+public class DatatypesVariables {
 
     int score1 = 90; // instance variable
     static double score2 = 90.7; // static variable
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         boolean qualify = true; // local variable
 

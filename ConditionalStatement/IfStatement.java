@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class IfStatement {
-    public static void main(String args[]) {
+public class IfStatement {
+    public static void main(String[] args) {
 
         int userPasword;
 

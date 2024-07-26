@@ -2,8 +2,8 @@
 
 import java.util.Scanner;
 
-class Question1 {
-    public static void main(String args[]) {
+public class Question1 {
+    public static void main(String[] args) {
         int number1, number2, number3, valuAfterMultiplication;
 
         System.out.println("Enter any three values: ");

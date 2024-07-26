@@ -2,8 +2,8 @@
 
 import java.util.Scanner;
 
-class InputOutput {
-    public static void main(String args[]) {
+public class InputOutput {
+    public static void main(String[] args) {
         int number1, number2, totalValue;
 
         System.out.println("Enter any two number: ");
